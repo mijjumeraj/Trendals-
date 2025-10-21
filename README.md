@@ -30,7 +30,7 @@ Django (Python)                                     High-level web framework for
 SQL (Structured Query Language)                     Managing the relational database for product catalogs, user accounts, and sales transactions.
 
 🔗 Live Demo
-Explore the deployed version of the website here: ➡️ mijumeraj.github.io/Trendals-
+Explore the deployed version of the website here: ➡️ https://mijjumeraj.github.io/Trendals-/-
 
 🤝 Contribution
 This project is open to suggestions and contributions. If you find a bug or have an idea for a new feature, please open an Issue or submit a Pull Request.
